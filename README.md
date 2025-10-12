@@ -1,0 +1,1 @@
+An advanced weather app built with HTML, CSS, and JavaScript, powered by the WeatherAPI, featuring real-time weather updates with temperature, humidity, wind speed, UV index, and air quality data. It includes dynamic animations, adaptive backgrounds, geolocation support, and a searchable history — all wrapped in a clean, responsive design.
